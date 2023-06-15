@@ -1,0 +1,7 @@
+{
+    "include": ["*.ts"],
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true
+    }
+}
